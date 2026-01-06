@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita)](https://github.com/arselabita/github-readme-stats)
+
+![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita&hide=contribs,prs)
+![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita&show_icons=true)
+![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita&commits_year=2020)
+![Arsi](https://github-readme-stats.vercel.app/api?username=arselabita&show_icons=true&theme=radical)
