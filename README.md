@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![arselabita](https://komarev.com/ghpvc/?username=arselabita&color=brightgreen&style=flat)
-<p alignement=center>
+<div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=arselabita&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arselabita&theme=radical)
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arselabita&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arselabita&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arselabita&theme=radical)
-</p>
+</div>
